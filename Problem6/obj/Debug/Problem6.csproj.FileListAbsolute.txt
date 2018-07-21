@@ -1,0 +1,7 @@
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\bin\Debug\Problem6.exe.config
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\bin\Debug\Problem6.exe
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\bin\Debug\Problem6.pdb
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\obj\Debug\Problem6.csprojResolveAssemblyReference.cache
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\obj\Debug\Problem6.csproj.CoreCompileInputs.cache
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\obj\Debug\Problem6.exe
+C:\Users\gemba\source\repos\ProjectEuler\Problem6\obj\Debug\Problem6.pdb
